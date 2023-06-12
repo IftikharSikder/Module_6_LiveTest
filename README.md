@@ -10,4 +10,4 @@ Includes:
 ●     Add appropriate padding, spacing, and styling to make the app visually appealing.
 ●     Use the IconButton widget to add an icon button on the AppBar. When pressed, it should display a Snackbar with the message "Cart is empty".
 
-![Module-6](https://github.com/IftikharSikder/Module_6_LiveTest/assets/101981180/a102bdfc-489a-4e7d-8c80-431bf1267fa2)
+![Module_6_Live_Test](https://github.com/IftikharSikder/Module_6_LiveTest/assets/101981180/c49a3760-5418-41c4-b624-bd03c2f62049)
